@@ -1,5 +1,7 @@
 # ActiveMQ REST
 
+REST wrapper for ActiveMQ.
+
 ## Requirements
 
 * Apache Maven 3.x ([http://maven.apache.org](http://maven.apache.org))
